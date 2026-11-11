@@ -1,7 +1,9 @@
 
-Chinese version → [README_EN.md]()
+
 
 # 📊 Dune Analytics Dashboard — Exchange Market Share Tracker
+
+> Chinese version → [README_zh.md](README_zh.md)
 
 > A **10-query / 20+ panel** Dune dashboard that maps the competitive landscape of
 > **Centralized Exchanges (CEX)**, **Decentralized Exchanges (DEX)** and **DEX aggregators**
