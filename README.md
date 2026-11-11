@@ -1,7 +1,5 @@
-<!--
-  README.md — English is the primary version.
-  Chinese translation: README_zh.md
--->
+
+Chinese version → [README_EN.md]()
 
 # 📊 Dune Analytics Dashboard — Exchange Market Share Tracker
 
